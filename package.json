@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@worldcoin/mini-apps-ui-kit-react": "^1.0.2",
-    "@worldcoin/minikit-js": "latest",
+    "@worldcoin/minikit-js": "^1.9.4",
     "@worldcoin/minikit-react": "^1.9.5",
     "clsx": "^2.1.1",
     "iconoir-react": "^7.11.0",

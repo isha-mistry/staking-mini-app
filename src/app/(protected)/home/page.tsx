@@ -26,7 +26,7 @@ export default async function Home() {
           }
         />
       </Page.Header>
-      <Page.Main className="flex flex-col items-center justify-start gap-4 mb-16">
+      <Page.Main className="flex flex-col items-center gap-4">
         <UserInfo />
         <Influencers />
         {/* <Verify />

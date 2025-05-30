@@ -9,7 +9,7 @@ dependencies:
     specifier: ^1.0.2
     version: 1.2.4(@types/react-dom@19.1.5)(@types/react@19.1.6)(react-dom@19.1.0)(react@19.1.0)(tailwindcss@4.1.7)
   '@worldcoin/minikit-js':
-    specifier: latest
+    specifier: ^1.9.4
     version: 1.9.4(@types/react@19.1.6)(react@19.1.0)(typescript@5.8.3)(viem@2.23.5)
   '@worldcoin/minikit-react':
     specifier: ^1.9.5

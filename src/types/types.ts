@@ -2,6 +2,7 @@ export interface Influencer {
   id: number;
   name: string;
   image: string;
+  subscribers?: string[];
   // followers: number;
   // avatar: string;
   // recentWeekSignals: number;
